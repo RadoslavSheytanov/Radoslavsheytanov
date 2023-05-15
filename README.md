@@ -11,6 +11,8 @@ Welcome to my GitHub repository! 🚀 Here you'll find my projects, explorations
 ## 📚 Projects
 I'm a beginner in the world of GitHub and currently working on various projects to showcase my skills and learning journey. Stay tuned for future updates as I'll be adding my projects here! 📈💡
 
+- [Application Manual AI ChatBot QA](https://github.com/RadoslavSheytanov/Inject-2.0-AI-ChatBot-QA) - My first project testing an AI ChatBot.
+
 ## 📫 Get in Touch
 I'm always excited to connect with fellow developers, share ideas, and learn from each other. You can find me on:
 - 💼 [LinkedIn](https://www.linkedin.com/in/radoslav-sheytanov-771a43260)
