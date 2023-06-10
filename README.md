@@ -16,7 +16,7 @@ I am a beginner developer passionate about Front-End Web Development. I'm excite
 ## Learning Journey
 - Front-End Web Development: SoftUni Sofia, freeCodeCamp, The Odin Project
 - JavaScript Fundamentals: SoftUni Sofia
-- CSS Styling:  CSS Grid is a powerful CSS layout system that pairs nicely with Flexbox to build beautiful webpages.
+- CSS Styling with CSS Grid which is a powerful CSS layout system that pairs nicely with Flexbox to build beautiful webpages.
 - Full-Stack Aspirations: I'm currently remotely pursuing my degree in Full-Stack Web Development at Software University (as mentioned before in Sofia, Bulgaria)
 
 ## Contact Me 📬
