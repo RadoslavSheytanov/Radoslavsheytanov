@@ -1,21 +1,27 @@
-# 👋 Hello, World (I guess... 😄)! I'm Radoslav Sheytanov 👨‍💻
+# Welcome to My Portfolio! 👋
 
-Welcome to my GitHub repository! 🚀 Here you'll find my projects, explorations, and experiments in the world of software development, AI, and Python.
+## About Me
+I am a beginner developer passionate about Front-End Web Development. I'm excited to learn and grow my skills in building user-friendly and visually appealing websites. My ultimate goal is to become a Full-Stack JavaScript Developer and create innovative web applications. 🌟
 
-## ✍️ About Me
-- 🌍 Native Bulgarian living in Dublin, Ireland
-- 🎓 Studying Software Quality Assurance Engineering at Software University (SoftUni) Sofia
-- 💡 Passionate about Artificial Intelligence and Deep Learning
-- 🐍 Python aficionado, leveraging its power to create innovative solutions
+## Skills
+- HTML5, CSS3, JavaScript
+- Responsive Web Design 📱
+- CSS Frameworks (Bootstrap)
+- Version Control (Git)
+- Problem-Solving Skills 🧩
 
-## 📚 Projects
-I'm a beginner in the world of GitHub and currently working on various projects to showcase my skills and learning journey. Stay tuned for future updates as I'll be adding my projects here! 📈💡
+## Projects
+- In progress (soon to be published)
 
-- [Application Manual AI ChatBot QA](https://github.com/RadoslavSheytanov/Inject-2.0-AI-ChatBot-QA) - My first project testing an AI ChatBot.
+## Learning Journey
+- Front-End Web Development: SoftUni Sofia, freeCodeCamp, The Odin Project
+- JavaScript Fundamentals: SoftUni Sofia
+- CSS Styling:  CSS Grid is a powerful CSS layout system that pairs nicely with Flexbox to build beautiful webpages.
+- Full-Stack Aspirations: I'm currently remotely pursuing my degree in Full-Stack Web Development at Software University (as mentioned before in Sofia, Bulgaria)
 
-## 📫 Get in Touch
-I'm always excited to connect with fellow developers, share ideas, and learn from each other. You can find me on:
-- 💼 [LinkedIn](https://www.linkedin.com/in/radoslav-sheytanov-771a43260)
-- 📘 [Facebook](https://www.facebook.com/weplaythesamegame/)
+## Contact Me 📬
+- Email: [radoslavsheytanov@yahoo.com](mailto:radoslavsheytanov@yahoo.com)
+- GitHub: [RadoslavSheytanov](https://github.com/radoslavsheytanov)
 
-Join me as I explore the exciting world of Software Testing, AI, and Python. Together, we can push the boundaries of what's possible! 🌟🚀
+Feel free to connect with me and provide any feedback or guidance as I embark on my coding journey. Let's learn and create together! 🚀
+
