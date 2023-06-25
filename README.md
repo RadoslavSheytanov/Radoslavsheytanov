@@ -4,7 +4,7 @@
 I am a beginner developer passionate about Front-End Web Development. I'm excited to learn and grow my skills in building user-friendly and visually appealing websites. My ultimate goal is to become a Full-Stack JavaScript Developer and create innovative web applications. 🌟
 
 ## Skills
-- HTML5, CSS3, JavaScript
+- HTML5, CSS3, JavaScript, PHP
 - Responsive Web Design 📱
 - CSS Frameworks (Bootstrap, Tailwind CSS)
 - Version Control (Git)
