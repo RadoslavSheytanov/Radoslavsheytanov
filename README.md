@@ -1,10 +1,10 @@
 # Hi there! My name is Rado. Nice to see you here! 👋
 
 ## About Me
-I am a beginner developer passionate about Front-End Web Development. I'm excited to learn and grow my skills in building user-friendly and visually appealing websites. My ultimate goal is to become a Full-Stack Laravel Developer and create innovative web applications. 🌟
+I am a beginner developer passionate about Front-End Web Development. I'm excited to learn and grow my skills in building user-friendly and visually appealing websites. My ultimate goal is to become a Full-Stack Web Developer and create innovative web applications. 🌟
 
 ## Skills
-- HTML5, CSS3, JavaScript, PHP
+- HTML5, CSS3, JavaScript
 - Responsive Web Design 📱
 - CSS Frameworks (Bootstrap, Tailwind CSS)
 - Version Control (Git)
