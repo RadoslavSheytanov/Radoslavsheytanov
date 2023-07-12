@@ -6,7 +6,7 @@ I am a beginner developer passionate about Front-End Web Development. I'm excite
 ## Skills
 - HTML5, CSS3, JavaScript
 - Responsive Web Design 📱
-- CSS Frameworks (Bootstrap, Tailwind CSS)
+- CSS Framework (Bootstrap)
 - Version Control (Git)
 - Problem-Solving Skills 🧩
 
