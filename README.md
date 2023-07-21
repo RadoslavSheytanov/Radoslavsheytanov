@@ -12,7 +12,7 @@ I'm excited to learn and grow my skills in building user-friendly and visually a
 - [My Portfolio Site](https://github.com/RadoslavSheytanov/my-portfolio)
 - [Python Excel Automation - Internal Tool helping me to be more productive as Business Operations Analyst](https://github.com/RadoslavSheytanov/bonus-automation)
 - [Python Inbox Excel Parser - Internal Tool helping me to be more efficient as Business Operations Analyst](https://github.com/RadoslavSheytanov/inbox-extraction-work)
--
+
 
 ## Contact Me 📬
 - Email: [radoslavsheytanov@yahoo.com](mailto:radoslavsheytanov@yahoo.com)
