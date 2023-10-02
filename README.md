@@ -1,26 +1,36 @@
-# Hi there! My name is Rado. Nice to see you here! 👋
+<h1 align="center">👋 Hello, I'm Rado!</h1>
+<p align="center">Welcome to my GitHub! 👨‍💻</p>
 
-![Profile Views](https://komarev.com/ghpvc/?username=radoslavsheytanov)
+<p align="center">
+  <img src="https://komarev.com/ghpvc/?username=radoslavsheytanov" alt="Profile Views">
+</p>
 
+---
 
-## About Me
-I am a new developer passionate about Web Development and I'm also secretly an Automation Enthusiast. I love automating boring and repetitive tasks using the power of Python.
+## 🙋‍♂️ About Me
 
-I'm excited to learn and grow my skills in building user-friendly and visually appealing websites. My ultimate goal is to become a Full-Stack Web Developer and create innovative web applications. 🌟
+Hey there! I'm a budding Web Developer with a penchant for Automation. Using Python, I've streamlined various tasks that used to be monotonous, turning them into a breeze! Web Development excites me, and I'm on a path to master it. My dream? Becoming a Full-Stack Web Developer to craft captivating web applications. 🌐
 
-## Projects
-- [My Portfolio Site](https://github.com/RadoslavSheytanov/my-portfolio)
-- [Python Excel Automation - Internal Tool helping me to be more productive as Business Operations Analyst](https://github.com/RadoslavSheytanov/bonus-automation)
-- [Python Inbox Excel Parser - Internal Tool helping me to be more efficient as Business Operations Analyst](https://github.com/RadoslavSheytanov/inbox-extraction-work)
+---
 
+## 🔨 Projects
 
-## Contact Me 📬
-- Email: [radoslavsheytanov@yahoo.com](mailto:radoslavsheytanov@yahoo.com)
-- GitHub: [RadoslavSheytanov](https://github.com/radoslavsheytanov)
+- 🌐 [My Portfolio Site](https://github.com/RadoslavSheytanov/my-portfolio)
+- 🐍 [Python Excel Automation](https://github.com/RadoslavSheytanov/bonus-automation) - Tool upping my productivity in Business Operations Analysis.
+- 📈 [Python Inbox Excel Parser](https://github.com/RadoslavSheytanov/inbox-extraction-work) - Making me efficient in Business Operations Analysis.
 
-### Languages and Tools:
+---
 
-<p align="left">
+## 📬 Contact Me
+
+- 📧 Email: [radoslavsheytanov@yahoo.com](mailto:radoslavsheytanov@yahoo.com)
+- 🐱 GitHub: [@RadoslavSheytanov](https://github.com/radoslavsheytanov)
+
+---
+
+## 🛠 Languages and Tools:
+
+<p align="center">
   <a href="https://developer.mozilla.org/en-US/docs/Glossary/HTML5"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="61" height="61"/></a>&nbsp;&nbsp;&nbsp;
   <a href="https://developer.mozilla.org/en-US/docs/Learn/CSS"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="61" height="61"/></a>&nbsp;&nbsp;&nbsp;
   <a href="https://getbootstrap.com/"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bootstrap/bootstrap-plain.svg" alt="bootstrap" width="55" height="55"/></a>&nbsp;&nbsp;&nbsp;
@@ -30,6 +40,8 @@ I'm excited to learn and grow my skills in building user-friendly and visually a
   <a href="https://www.mysql.com/"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="65" height="65"/></a>
 </p>
 
+---
 
-
-Feel free to connect with me and provide any feedback or guidance as I embark on my coding journey. Let's learn and create together! 🚀
+<p align="center">
+  🚀 Let's connect, code, and create together!
+</p>
