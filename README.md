@@ -16,8 +16,8 @@ Hey there! I'm a budding Web Developer with a penchant for Automation. Using Pyt
 ## 🔨 Projects
 
 - 🌐 [My Portfolio Site](https://github.com/RadoslavSheytanov/my-portfolio)
-- 🐍 [Python Excel Automation](https://github.com/RadoslavSheytanov/bonus-automation) - Tool upping my productivity in Business Operations Analysis.
-- 📈 [Python Inbox Excel Parser](https://github.com/RadoslavSheytanov/inbox-extraction-work) - Making me efficient in Business Operations Analysis.
+- 🐍 [Excel Automation](https://github.com/RadoslavSheytanov/bonus-automation) - Tool upping my productivity in Business Operations Analysis.
+- 📈 [Inbox Excel Parser](https://github.com/RadoslavSheytanov/inbox-extraction-work) - Making me efficient in Business Operations Analysis.
 
 ---
 
