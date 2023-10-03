@@ -24,7 +24,7 @@ Hey there! I'm a budding Web Developer with a penchant for Automation. Using Pyt
 ## 📬 Contact Me
 
 - 📧 Email: [radoslavsheytanov@yahoo.com](mailto:radoslavsheytanov@yahoo.com)
-- 🐱 GitHub: [@RadoslavSheytanov](https://github.com/radoslavsheytanov)
+- 🐱 LinkedIn: [Radoslav Sheytanov-Ruxton](https://linkedin.com/en/radoslav-sheytanov-ruxton)
 
 ---
 
