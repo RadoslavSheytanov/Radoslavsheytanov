@@ -1,10 +1,6 @@
 <h1 align="center">👋 Hello, I'm Rado!</h1>
 <p align="center">Welcome to my GitHub! 👨‍💻</p>
 
-<p align="center">
-  <img src="https://komarev.com/ghpvc/?username=radoslavsheytanov" alt="Profile Views">
-</p>
-
 ---
 
 ## 🙋‍♂️ About Me
@@ -33,7 +29,6 @@ Hey there! I'm a budding Web Developer with a penchant for Automation. Using Pyt
 <p align="center">
   <a href="https://developer.mozilla.org/en-US/docs/Glossary/HTML5"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="50" height="50"/></a>&nbsp;&nbsp;&nbsp;
   <a href="https://developer.mozilla.org/en-US/docs/Learn/CSS"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="50" height="50"/></a>&nbsp;&nbsp;&nbsp;
-  <a href="https://tailwindcss.com/"><img src="https://upload.wikimedia.org/wikipedia/commons/thumb/d/d5/Tailwind_CSS_Logo.svg/1024px-Tailwind_CSS_Logo.svg.png?20230715030042" alt="tailwind" width="50" height="50"/></a>&nbsp;&nbsp;&nbsp;
   <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="50" height="50"/></a>&nbsp;&nbsp;&nbsp;
   <a href="https://nodejs.org/en"><img src="https://cdn.worldvectorlogo.com/logos/nodejs-icon.svg" alt="nodejs" width="50" height="50"/></a>&nbsp;&nbsp;&nbsp;
   <a href="https://www.python.org/"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="50" height="50"/></a>&nbsp;&nbsp;&nbsp;
