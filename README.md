@@ -5,15 +5,7 @@
 
 ## 🙋‍♂️ About Me
 
-Hey there! I'm a budding Web Developer with a penchant for Automation. Using Python, I've streamlined various tasks that used to be monotonous, turning them into a breeze! Web Development excites me, and I'm on a path to master it. My dream? Becoming a Full-Stack Web Developer to craft captivating web applications. 🌐
-
----
-
-## 🔨 Projects
-
-- 🌐 [My Portfolio Site](https://github.com/RadoslavSheytanov/my-portfolio)
-- 🐍 [Excel Automation](https://github.com/RadoslavSheytanov/bonus-automation) - Data Automation App which I created and used in order to boost my productivity as a Business Operations Analyst.
-- 📈 [Inbox Excel Parser](https://github.com/RadoslavSheytanov/inbox-extraction-work) - Another Automation Tool which I developed and used in my previous job as a Business Operations Analyst.
+Hey there! I'm a Web Developer with a penchant for Automation. Using the power of Python, I've streamlined various tasks that used to be monotonous, turning them into a breeze! My biggest passion is engineering web solutions which make the world a better place.
 
 ---
 
