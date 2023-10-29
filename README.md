@@ -5,7 +5,7 @@
 
 ## 🙋‍♂️ About Me
 
-Hey there! I'm a Web Developer with a penchant for Automation. Using the power of Python, I've streamlined various tasks that used to be monotonous, turning them into a breeze! My biggest passion is engineering web solutions which make the world a better place.
+Hi there! I'm a Web Developer with a love for automation. I've harnessed the capabilities of Python to transform tedious tasks from my past jobs into effortless processes. My greatest passion lies in crafting web solutions that contribute to a better world.
 
 ---
 
