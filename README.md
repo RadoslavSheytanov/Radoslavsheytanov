@@ -30,7 +30,7 @@ Hi there! I'm a Web Developer with a love for automation. I've harnessed the cap
 
 ---
 
-## 🎨 Currently studying... ASP.NET Core!
+## 🎨 Currently studying... Advanced JavaScript and Java Back-End (SpringBoot)!
 
 
 <p align="center">
