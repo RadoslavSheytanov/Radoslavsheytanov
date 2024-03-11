@@ -5,7 +5,7 @@
 
 ## 🙋‍♂️ About Me
 
-Good day! I'm a security researcher and ethical hacker skilled in penetration testing. With a background in software engineering, I'm dedicated to identifying vulnerabilities and committed to responsible reporting. As I'm still in my early days of my career I'm always eager to expand my knowledge in this field.
+Good day! I'm a security researcher and ethical hacker. My main interest lies in penetration testing and digital forensics. With a background in software engineering, I'm dedicated to identifying vulnerabilities and committed to responsible reporting. As I'm still in my early days of my career I'm always eager to expand my knowledge in this field.
 
 ---
 
