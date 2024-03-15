@@ -11,7 +11,7 @@ Good day! I'm a security researcher and ethical hacker. My main interest lies in
 
 ## 📬 Contact Me
 
-- 📧 Email: [radoslavsheytanov@yahoo.com](mailto:radoslavsheytanov@yahoo.com)
+- 📧 Email: [radoslav@programmer.net](mailto:radoslav@programmer.net)
 - 🐱 LinkedIn: [Radoslav Sheytanov-Ruxton](https://www.linkedin.com/in/radoslav-sheytanov-ruxton/)
 
 ---
@@ -30,7 +30,3 @@ Good day! I'm a security researcher and ethical hacker. My main interest lies in
 
 ## 🎨 Currently studying... Powershell and Python for Pen Testing and Security Research!
 
-
-<p align="center">
-  🚀 Let's connect, code, and create together!
-</p>
