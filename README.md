@@ -20,9 +20,7 @@ Good day! I'm a security researcher and ethical hacker. My main interest lies in
 
 <p align="left">
 
-<a href="https://www.java.com/" target="_blank" rel="noreferrer"> <img src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white" alt="Java"/> </a>
-  <a href="https://docs.microsoft.com/en-us/dotnet/csharp/" target="_blank" rel="noreferrer"> <img src="https://img.shields.io/badge/-CSharp-239120?style=for-the-badge&logo=csharp&logoColor=white" alt="CSharp"/> </a>
-  <a href="https://dotnet.microsoft.com/" target="_blank" rel="noreferrer"> <img src="https://img.shields.io/badge/-.NET-512BD4?style=for-the-badge&logo=dotnet&logoColor=white" alt=".NET"/> </a>
+<a href="https://en.wikipedia.org/wiki/C_(programming_language)" target="_blank" rel="noreferrer"> <img src="https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white" alt="C"/> </a>
   <a href="https://www.python.org/" target="_blank" rel="noreferrer"> <img src="https://img.shields.io/badge/-Python-3776AB?style=for-the-badge&logo=python&logoColor=white" alt="Python"/> </a>
 <a href="https://www.kali.org/" target="_blank" rel="noreferrer"> <img src="https://img.shields.io/badge/Kali_Linux-557C94?style=for-the-badge&logo=kali-linux&logoColor=white" alt="Kali"/> </a>
 <a href="https://www.gnu.org/software/bash/" target="_blank" rel="noreferrer"> <img src="https://img.shields.io/badge/GNU%20Bash-4EAA25?style=for-the-badge&logo=GNU%20Bash&logoColor=white" alt="Bash"/> </a>
