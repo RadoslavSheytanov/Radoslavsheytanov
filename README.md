@@ -30,5 +30,5 @@ Good day! I'm a security researcher and ethical hacker. My main interest lies in
 
 ---
 
-## 🎨 Currently studying... Powershell and Python for Pen Testing and Security Research!
+## 🎨 Currently rocking everything at ... LetsDefend.IO !
 
