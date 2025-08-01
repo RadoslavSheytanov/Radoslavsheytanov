@@ -1,58 +1,81 @@
-# 👋 Hi, I'm Radoslav — Full-Stack Developer & Payment Tech Specialist
+<h1 align="center">👋 Hi, I'm Radoslav</h1>
+<h3 align="center">Full-Stack Developer & Payment Tech Specialist</h3>
 
-🚀 **Web & Software Developer | Ex-Meta (VR Labs) | Laravel, .NET, JavaScript | Global Payments Inc.**
-
-Welcome to my GitHub! I’m a full-stack developer with a strong focus on **fintech**, **secure payments**, and **real-world web applications**. By day, I work as a **Product Advocate** at **Global Payments Inc.**, one of the largest payment tech companies in the world — building, scaling, and improving mission-critical systems used by millions of merchants globally.
-
-Before that, I worked at **Meta (Facebook VR Labs)**, where I helped test and refine next-gen immersive tech. That precision and engineering discipline still shape the way I build software today.
-
----
-
-## 🛠️ My Stack
-
-### Languages & Frameworks
-- **Frontend**: HTML5, CSS3, JavaScript, React
-- **Backend**: PHP (Laravel), C# (.NET), Node.js (Express)
-- **Databases**: MySQL, PostgreSQL, MongoDB, Firebase
-
-### Payment Technologies
-- **Gateways**: Stripe, PayPal, Apple Pay, Google Pay, Global Payments API
-- **Security**: 3D Secure (3DS), Tokenization, PCI-DSS Compliance
-- **Workflows**: Webhooks, Chargebacks, Refund Logic, Subscription Management
-
-### DevOps & Tools
-- REST APIs, Postman, Git, Docker, NGINX
-- Firebase (Realtime DB & Auth), AWS S3, WordPress Plugin Development
+<p align="center">
+  🚀 <strong>Web & Software Developer</strong> | <strong>Ex-Meta (VR Labs)</strong> | <strong>Laravel, .NET, JavaScript</strong> <br>
+  💳 <strong>Fintech Product Advocate at Global Payments Inc.</strong>
+</p>
 
 ---
 
-## 💼 What I Do
+### 👨‍💻 About Me
 
-I build software that’s **fast**, **secure**, and **built to scale** — especially for businesses that deal with real money and need bulletproof systems.
+I'm a full-stack developer with a strong focus on **fintech**, **secure payments**, and **real-world business applications**.
 
-- Custom Web Apps  
-- AI Chatbot Payment Flows  
-- End-to-End Payment Integration  
-- Merchant Onboarding & Transaction Logging  
-- API-first Architecture with Clean Documentation
+By day, I work at **Global Payments Inc.**, one of the world's largest payment tech companies — helping build, scale, and refine critical systems that process billions in transactions.
+
+Previously, I was at **Meta (Facebook VR Labs)**, where I helped ensure the quality of next-gen immersive tech. That attention to detail and focus on performance still shapes everything I build today.
 
 ---
 
-## 📈 My Values
+### 🛠️ Tech Stack
 
-- ✅ Clean, readable, and maintainable code
-- ✅ Strong communication and clear timelines
-- ✅ Security-first development in payments
-- ✅ Business-aware solutions — I build like it’s my own product
+#### 🔹 Languages & Frameworks
+- **Frontend:** HTML5, CSS3, JavaScript, React
+- **Backend:** PHP (Laravel), C# (.NET), Node.js (Express)
+
+#### 🔹 Payment Technologies
+- **Gateways:** Stripe, PayPal, Apple Pay, Google Pay, Global Payments API
+- **Security:** 3D Secure (3DS), Tokenization, PCI-DSS Compliance
+- **Workflows:** Webhooks, Chargebacks, Refunds, Subscriptions
+
+#### 🔹 Tools & Platforms
+- REST APIs, Postman, Docker, Git, NGINX
+- Firebase (Realtime DB + Auth), AWS S3
+- WordPress Plugin Development, API Integrations
 
 ---
 
-## 📬 Let’s Connect
+### 💼 What I Build
 
-- 💼 [Upwork Profile](https://www.upwork.com/freelancers/buildwithrado)  
-- 💻 [LinkedIn](https://ie.linkedin.com/in/radoslav-sheytanov-ruxton)  
-- 📫 Email: radoslav@programmer.net 
+💡 Solutions engineered for **scale**, **security**, and **speed** — especially for businesses where every transaction matters.
+
+- 🧠 AI-Powered Chatbot Payment Flows  
+- 💻 Custom Web Applications  
+- 💳 End-to-End Payment Integrations  
+- 🧾 Merchant Onboarding & Transaction Logging  
+- ⚙️ API-First Architecture with Clean Docs
 
 ---
 
-Thanks for visiting! Feel free to check out some of my repos below or get in touch if you're looking for a developer who understands **both code and commerce**.
+### 📈 Core Values
+
+- ✅ Clean, modular, maintainable code  
+- ✅ Clear communication and timely delivery  
+- ✅ Fintech-grade security and compliance  
+- ✅ Product mindset — I build like it’s my own business  
+
+---
+
+### 📬 Let’s Connect
+
+<table>
+  <tr>
+    <td>💼 Upwork</td>
+    <td><a href="https://www.upwork.com/freelancers/buildwithrado">upwork.com/freelancers/buildwithrado</a></td>
+  </tr>
+  <tr>
+    <td>💻 LinkedIn</td>
+    <td><a href="https://ie.linkedin.com/in/radoslav-sheytanov-ruxton">linkedin.com/in/radoslav-sheytanov-ruxton</a></td>
+  </tr>
+  <tr>
+    <td>📫 Email</td>
+    <td>radoslav@programmer.net</td>
+  </tr>
+</table>
+
+---
+
+<p align="center">
+  💬 Thanks for visiting! Feel free to check out my repos or reach out if you’re looking for a developer who understands both <strong>code</strong> and <strong>commerce</strong>.
+</p>
