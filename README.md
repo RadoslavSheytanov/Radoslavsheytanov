@@ -8,7 +8,7 @@
 </p>
 
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=php,laravel,dotnet,nodejs,js,react,html,css,postgres,mysql,mongodb,firebase,docker,git" />
+  <img src="https://skillicons.dev/icons?i=html,css,js,nodejs,react,phplaravel,dotnet,postgres,mysql,mongodb,firebase,docker,git" />
 </p>
 
 ---
@@ -82,23 +82,6 @@ I treat every line of code as if it’s running on my own business.
 </p>
 
 ---
-
-## 📊 GitHub Activity
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=your-github-username&show_icons=true&theme=default&hide_border=false" alt="GitHub Stats" />
-</p>
-
-<p align="center">
-  <img src="https://streak-stats.demolab.com?user=your-github-username&theme=default" alt="GitHub Streak" />
-</p>
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=your-github-username&layout=compact&hide_border=false" alt="Top Languages" />
-</p>
-
----
-
 <p align="center">
   👇 Let's build something great together — check out my pinned projects below!
 </p>
