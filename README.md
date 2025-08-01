@@ -1,34 +1,58 @@
-<h1 align="center">👋 Hello, I'm Rado!</h1>
-<p align="center">Welcome to my GitHub! 👨‍💻</p>
+# 👋 Hi, I'm Radoslav — Full-Stack Developer & Payment Tech Specialist
+
+🚀 **Web & Software Developer | Ex-Meta (VR Labs) | Laravel, .NET, JavaScript | Global Payments Inc.**
+
+Welcome to my GitHub! I’m a full-stack developer with a strong focus on **fintech**, **secure payments**, and **real-world web applications**. By day, I work as a **Product Advocate** at **Global Payments Inc.**, one of the largest payment tech companies in the world — building, scaling, and improving mission-critical systems used by millions of merchants globally.
+
+Before that, I worked at **Meta (Facebook VR Labs)**, where I helped test and refine next-gen immersive tech. That precision and engineering discipline still shape the way I build software today.
 
 ---
 
-## 🙋‍♂️ About Me
+## 🛠️ My Stack
 
-I'm a skilled software engineer in the realms of Web Development. My background is in Computer Science as well as Cybersecurity.
+### Languages & Frameworks
+- **Frontend**: HTML5, CSS3, JavaScript, React
+- **Backend**: PHP (Laravel), C# (.NET), Node.js (Express)
+- **Databases**: MySQL, PostgreSQL, MongoDB, Firebase
 
----
+### Payment Technologies
+- **Gateways**: Stripe, PayPal, Apple Pay, Google Pay, Global Payments API
+- **Security**: 3D Secure (3DS), Tokenization, PCI-DSS Compliance
+- **Workflows**: Webhooks, Chargebacks, Refund Logic, Subscription Management
 
-## 📬 Contact Me
-
-- 📧 Email: [radoslav@programmer.net](mailto:radoslav@programmer.net)
-- 🐱 LinkedIn: [Radoslav Sheytanov-Ruxton](https://www.linkedin.com/in/radoslav-sheytanov-ruxton/)
-
----
-
-## 🛠 Languages and Tools:
-
-<p align="left">
- <a href="https://www.java.com/" target="_blank" rel="noreferrer"> <img src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white" alt="Java"/> </a>
- <a href="https://learn.microsoft.com/en-us/dotnet/csharp/" target="_blank" rel="noreferrer"> <img src="https://img.shields.io/badge/C%23-239120?style=for-the-badge&logo=c-sharp&logoColor=white" alt="Csharp"/> </a>
-  <a href="https://www.python.org/" target="_blank" rel="noreferrer"> <img src="https://img.shields.io/badge/-Python-3776AB?style=for-the-badge&logo=python&logoColor=white" alt="Python"/> </a>
-<a href="https://learn.microsoft.com/en-us/powershell/" target="_blank" rel="noreferrer"> <img src="https://img.shields.io/badge/Powershell-2CA5E0?style=for-the-badge&logo=powershell&logoColor=white" alt="Powershell"/> </a>
-<a href="https://www.gnu.org/software/bash/" target="_blank" rel="noreferrer"> <img src="https://img.shields.io/badge/GNU%20Bash-4EAA25?style=for-the-badge&logo=GNU%20Bash&logoColor=white" alt="Bash"/> </a>
-<a href="https://www.kali.org/" target="_blank" rel="noreferrer"> <img src="https://img.shields.io/badge/Kali_Linux-557C94?style=for-the-badge&logo=kali-linux&logoColor=white" alt="Kali"/> </a>
-
-</p>
+### DevOps & Tools
+- REST APIs, Postman, Git, Docker, NGINX
+- Firebase (Realtime DB & Auth), AWS S3, WordPress Plugin Development
 
 ---
 
-## 🎨 Currently rocking everything at ... LetsDefend.IO !
+## 💼 What I Do
 
+I build software that’s **fast**, **secure**, and **built to scale** — especially for businesses that deal with real money and need bulletproof systems.
+
+- Custom Web Apps  
+- AI Chatbot Payment Flows  
+- End-to-End Payment Integration  
+- Merchant Onboarding & Transaction Logging  
+- API-first Architecture with Clean Documentation
+
+---
+
+## 📈 My Values
+
+- ✅ Clean, readable, and maintainable code
+- ✅ Strong communication and clear timelines
+- ✅ Security-first development in payments
+- ✅ Business-aware solutions — I build like it’s my own product
+
+---
+
+## 📬 Let’s Connect
+
+- 💼 [Upwork Profile](https://www.upwork.com/freelancers/buildwithrado)  
+- 💻 [LinkedIn](https://ie.linkedin.com/in/radoslav-sheytanov-ruxton)  
+- 📫 Email: radoslav@programmer.net 
+
+---
+
+Thanks for visiting! Feel free to check out some of my repos below or get in touch if you're looking for a developer who understands **both code and commerce**.
