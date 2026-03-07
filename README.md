@@ -19,7 +19,7 @@ I'm a full-stack developer and fintech product specialist helping businesses bui
 
 💼 **By day:** I work at [Global Payments Inc.](https://www.globalpayments.com/) — one of the world's leading payment technology companies — where I support the development of APIs, payment gateways, merchant flows, and PCI-compliant infrastructure used by millions.
 
-🧪 **Previously:** I worked at **Meta (Facebook VR Labs)** as a **QA Engineer**, where I helped ensure the quality of bleeding-edge immersive tech.
+🧪 **Previously:** I worked at **Meta (Reality Labs)** as a **QA Engineer**, where I helped ensure the quality of bleeding-edge immersive tech.
 
 🎯 **Today:** I bring the same precision to client projects — merging clean code with deep business insight, especially in the fintech space.
 
