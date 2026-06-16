@@ -1,18 +1,19 @@
 <div align="center">
 
-![The Tell — Read. Break. Build.](./the-tell-banner.png)
+<img src="./the-tell-banner.svg" alt="The Tell. Read. Break. Build." width="100%">
 
-<br>
+<br><br>
 
 **One mind. Read. Break. Build.**
 
-*I read people, break systems, and build what's next — under one name.*
-You're looking at the **build**.
+I read people, break systems, and build what's next. Under one name.
 
-<br>
+[![Read](https://img.shields.io/badge/Read-17171b?style=flat-square&labelColor=17171b)](#-the-triad)
+[![Break](https://img.shields.io/badge/Break-17171b?style=flat-square&labelColor=17171b)](#-the-triad)
+[![Build](https://img.shields.io/badge/Build-9fb4d6?style=flat-square&labelColor=9fb4d6)](#-the-triad)
 
-`Full-stack developer` · `payment systems & fintech infrastructure`
-Currently at **Global Payments Inc.** — previously QA at **Meta Reality Labs**.
+`Full-stack developer` · `payments & fintech infrastructure`
+Now at **Global Payments Inc.** Before that, QA at **Meta Reality Labs**.
 
 </div>
 
@@ -20,15 +21,15 @@ Currently at **Global Payments Inc.** — previously QA at **Meta Reality Labs**
 
 ### `[ 01 ]` &nbsp; THE WORK
 
-I live at the intersection of clean backend architecture and the unglamorous-but-critical machinery most people never see — payment flows, webhooks, fraud handling, subscription logic. The stuff that has to *not* break.
+I work on the part of a product that moves money. Payment flows, webhooks, fraud handling, subscription logic. Code that has to be right every time, not most of the time.
 
-What I actually build:
+In practice:
 
-- **Secure payment integrations** — Stripe, Global Payments, 3DS, tokenization
-- **Merchant onboarding** systems and PCI-DSS-compliant flows at scale
-- **Real-time transaction dashboards**
-- **AI chatbot flows** with payment triggers
-- Custom **WordPress extensions**
+- Secure payment integrations. Stripe, Global Payments, 3DS, tokenization.
+- Merchant onboarding and PCI-DSS flows that hold up at scale.
+- Real-time transaction dashboards.
+- AI chatbot flows that trigger payments.
+- Custom WordPress extensions.
 
 ---
 
@@ -61,13 +62,13 @@ What I actually build:
 
 ### `[ 03 ]` &nbsp; THE TRIAD
 
-One mind, three crafts. This repo is one corner of it.
+One mind, three crafts. This page is the build side. The other two live elsewhere.
 
-| Register | Reads | The craft |
-|----------|-------|-----------|
+| Register | Reads | Craft |
+|----------|-------|-------|
 | **Read** | *the mind* | Mentalism, psychology, behavioural reading |
 | **Break** | *the machine* | OSINT, offensive security, web-app testing |
-| **Build** | *the system* | Web development & product — **← you are here** |
+| **Build** | *the system* | Web development and product |
 
 ---
 
@@ -79,26 +80,23 @@ One mind, three crafts. This repo is one corner of it.
 &nbsp;
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0a0a0c?style=for-the-badge&logo=linkedin&logoColor=9fb4d6&labelColor=050506)](https://ie.linkedin.com/in/radoslav-sheytanov-ruxton)
 &nbsp;
-[![Email](https://img.shields.io/badge/EMAIL-0a0a0c?style=for-the-badge&logo=protonmail&logoColor=9fb4d6&labelColor=050506)](mailto:radoslav@programmer.net)
+[![Email](https://img.shields.io/badge/EMAIL-0a0a0c?style=for-the-badge&labelColor=050506&color=0a0a0c)](mailto:radoslav@programmer.net)
 
 </div>
 
-For the *break* work — OSINT, security, web-app testing — there's a secure channel. Ask.
+Break work stays off the open web. OSINT, offensive security, web-app testing, by private channel only. Ask.
 
-<!--
-  ┌─ OPTIONAL ────────────────────────────────────────────────────────────┐
-  │ GitHub stats, themed to The Tell. Replace YOUR-USERNAME in both URLs,  │
-  │ then delete this comment wrapper (the <!-- and --> lines) to enable.   │
-  └────────────────────────────────────────────────────────────────────────┘
+---
+
+### `[ 05 ]` &nbsp; THE NUMBERS
 
 <div align="center">
 
-![Stats](https://github-readme-stats.vercel.app/api?username=YOUR-USERNAME&show_icons=true&hide_border=true&bg_color=050506&title_color=9fb4d6&text_color=a7a29a&icon_color=9fb4d6)
+![Stats](https://github-readme-stats.vercel.app/api?username=RadoslavSheytanov&show_icons=true&include_all_commits=true&hide_border=true&bg_color=050506&title_color=9fb4d6&text_color=a7a29a&icon_color=9fb4d6)
 &nbsp;
-![Top languages](https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR-USERNAME&layout=compact&hide_border=true&bg_color=050506&title_color=9fb4d6&text_color=a7a29a)
+![Top languages](https://github-readme-stats.vercel.app/api/top-langs/?username=RadoslavSheytanov&layout=compact&hide_border=true&bg_color=050506&title_color=9fb4d6&text_color=a7a29a)
 
 </div>
--->
 
 ---
 
@@ -106,6 +104,6 @@ For the *break* work — OSINT, security, web-app testing — there's a secure c
 
 <sub>✦ &nbsp; read &nbsp; ✦ &nbsp; break &nbsp; ✦ &nbsp; build &nbsp; ✦ &nbsp; read &nbsp; ✦ &nbsp; break &nbsp; ✦ &nbsp; build &nbsp; ✦</sub>
 
-<sub>*A tell is the thing you give away without meaning to. I find it — in a person, in a system — and I build with what I learn.*</sub>
+<sub>*A tell is the thing you give away without meaning to. I find it, in a person or in a system, and I build with what I learn.*</sub>
 
 </div>
