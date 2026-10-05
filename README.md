@@ -1,109 +1,56 @@
 <div align="center">
 
-<img src="./the-tell-banner.svg" alt="The Tell. Read. Break. Build." width="100%">
+<a href="https://sheytanoff.com"><img src="./assets/hero.svg" width="100%" alt="Rado Sheytanoff. I read people, break systems, and build what's next, all under one name."></a>
+
+</div>
+
+<br>
+
+Hey, I'm Rado. Dad, husband, and the mentalist at your company party who somehow knows what you're thinking.
+
+I also test web apps for security holes and build products, so this page is mostly the build side. By day I work on payments at Global Payments in Dublin, before that I was doing QA at Meta Reality Labs.
+
+Everything else is on [sheytanoff.com](https://sheytanoff.com)
+
+<br>
+
+<div align="center">
+
+<img src="./assets/thesis.svg" width="100%" alt="A mentalist, a hacker, a developer. It looks scattered. It isn't. It's one mind.">
 
 <br><br>
 
-**One mind. Read. Break. Build.**
+<a href="https://sheytanoff.com/mentalist"><img src="./assets/craft-read.svg" width="33%" alt="01 Read. The Mentalist."></a><a href="https://sheytanoff.com/cyber"><img src="./assets/craft-break.svg" width="33%" alt="02 Break. Security Testing."></a><a href="https://sheytanoff.com/dev"><img src="./assets/craft-build.svg" width="33%" alt="03 Build. Product Engineering."></a>
 
-I read people, break systems, and build what's next. Under one name.
+<br><br>
 
-[![Read](https://img.shields.io/badge/Read-17171b?style=flat-square&labelColor=17171b)](#-the-triad)
-[![Break](https://img.shields.io/badge/Break-17171b?style=flat-square&labelColor=17171b)](#-the-triad)
-[![Build](https://img.shields.io/badge/Build-9fb4d6?style=flat-square&labelColor=9fb4d6)](#-the-triad)
+<img src="./assets/work.svg" width="100%" alt="What falls out when you read people and build systems together.">
 
-`Full-stack developer` · `payments & fintech infrastructure`
-Now at **Global Payments Inc.** Before that, QA at **Meta Reality Labs**.
+<br><br>
 
-</div>
+<a href="https://sybilsight.com"><img src="./assets/work-sybil.svg" width="49.5%" alt="Sybil Sight. A mentalism operating system for smart glasses."></a><a href="https://booked.kivimedia.co"><img src="./assets/work-booked.svg" width="49.5%" alt="Booked Solid OS. An AI booking department for working entertainers."></a>
+<a href="https://sapienjournal.com"><img src="./assets/work-sapien.svg" width="49.5%" alt="Sapien Journal. A subscription journal of propless mentalism."></a><a href="https://charliehewish.com"><img src="./assets/work-hewish.svg" width="49.5%" alt="Charlie Hewish. A bookings site for a close-up magician and mindreader."></a>
 
----
+<br><br>
 
-### `[ 01 ]` &nbsp; THE WORK
+<img src="./assets/proof.svg" width="100%" alt="Rooms I've worked in. WHOOP, McKinsey and Company, Meta, Workday, SMFL. 500+ events, 7+ countries, 1 operator.">
 
-I work on the part of a product that moves money. Payment flows, webhooks, fraud handling, subscription logic. Code that has to be right every time, not most of the time.
+<br><br>
 
-In practice:
+<img src="./assets/bench.svg" width="100%" alt="The bench. What I use on stage, in the lab and at the desk.">
 
-- Secure payment integrations. Stripe, Global Payments, 3DS, tokenization.
-- Merchant onboarding and PCI-DSS flows that hold up at scale.
-- Real-time transaction dashboards.
-- AI chatbot flows that trigger payments.
-- Custom WordPress extensions.
+<br><br>
 
----
+<a href="https://sheytanoff.com/#contact"><img src="./assets/contact.svg" width="100%" alt="Tell me what you need. I'll take it from here."></a>
 
-### `[ 02 ]` &nbsp; THE STACK
+<br><br>
 
-**`core`**
-![Laravel](https://img.shields.io/badge/Laravel-0a0a0c?style=flat-square&logo=laravel&logoColor=9fb4d6&labelColor=050506)
-![.NET](https://img.shields.io/badge/.NET-0a0a0c?style=flat-square&logo=dotnet&logoColor=9fb4d6&labelColor=050506)
-![Node.js](https://img.shields.io/badge/Node.js-0a0a0c?style=flat-square&logo=nodedotjs&logoColor=9fb4d6&labelColor=050506)
-![React](https://img.shields.io/badge/React-0a0a0c?style=flat-square&logo=react&logoColor=9fb4d6&labelColor=050506)
-![PostgreSQL](https://img.shields.io/badge/PostgreSQL-0a0a0c?style=flat-square&logo=postgresql&logoColor=9fb4d6&labelColor=050506)
-![MySQL](https://img.shields.io/badge/MySQL-0a0a0c?style=flat-square&logo=mysql&logoColor=9fb4d6&labelColor=050506)
-![MongoDB](https://img.shields.io/badge/MongoDB-0a0a0c?style=flat-square&logo=mongodb&logoColor=9fb4d6&labelColor=050506)
+<a href="https://sheytanoff.com/mentalist"><img src="./assets/btn-read.svg" height="54" alt="Book the mentalist"></a>&nbsp;<a href="https://sheytanoff.com/cyber"><img src="./assets/btn-break.svg" height="54" alt="Test my app"></a>&nbsp;<a href="https://sheytanoff.com/dev"><img src="./assets/btn-build.svg" height="54" alt="Start a build"></a>
 
-**`payments`**
-![Stripe](https://img.shields.io/badge/Stripe-0a0a0c?style=flat-square&logo=stripe&logoColor=9fb4d6&labelColor=050506)
-![Global Payments API](https://img.shields.io/badge/Global_Payments_API-0a0a0c?style=flat-square&labelColor=050506&color=0a0a0c)
-![3DS](https://img.shields.io/badge/3DS-0a0a0c?style=flat-square&labelColor=050506&color=0a0a0c)
-![Tokenization](https://img.shields.io/badge/Tokenization-0a0a0c?style=flat-square&labelColor=050506&color=0a0a0c)
-![PCI-DSS](https://img.shields.io/badge/PCI--DSS-0a0a0c?style=flat-square&labelColor=050506&color=0a0a0c)
+<a href="https://sheytanoff.com"><img src="./assets/link-site.svg" height="40" alt="sheytanoff.com"></a><a href="https://instagram.com/sheytanoff_mindreader"><img src="./assets/link-ig.svg" height="40" alt="Instagram"></a><a href="https://ie.linkedin.com/in/radoslav-sheytanov-ruxton"><img src="./assets/link-in.svg" height="40" alt="LinkedIn"></a><a href="mailto:rado@sheytanoff.com"><img src="./assets/link-mail.svg" height="40" alt="Email"></a>
 
-**`infra`**
-![Docker](https://img.shields.io/badge/Docker-0a0a0c?style=flat-square&logo=docker&logoColor=9fb4d6&labelColor=050506)
-![AWS S3](https://img.shields.io/badge/AWS_S3-0a0a0c?style=flat-square&logo=amazons3&logoColor=9fb4d6&labelColor=050506)
-![CI/CD](https://img.shields.io/badge/CI%2FCD-0a0a0c?style=flat-square&logo=githubactions&logoColor=9fb4d6&labelColor=050506)
-![REST APIs](https://img.shields.io/badge/REST_APIs-0a0a0c?style=flat-square&labelColor=050506&color=0a0a0c)
-![Firebase](https://img.shields.io/badge/Firebase-0a0a0c?style=flat-square&logo=firebase&logoColor=9fb4d6&labelColor=050506)
+<br><br>
 
----
-
-### `[ 03 ]` &nbsp; THE TRIAD
-
-One mind, three crafts. This page is the build side. The other two live elsewhere.
-
-| Register | Reads | Craft |
-|----------|-------|-------|
-| **Read** | *the mind* | Mentalism, psychology, behavioural reading |
-| **Break** | *the machine* | OSINT, offensive security, web-app testing |
-| **Build** | *the system* | Web development and product |
-
----
-
-### `[ 04 ]` &nbsp; CHANNELS
-
-<div align="center">
-
-[![Start a build](https://img.shields.io/badge/START_A_BUILD-9fb4d6?style=for-the-badge&logo=upwork&logoColor=050506&labelColor=9fb4d6)](https://www.upwork.com/freelancers/buildwithrado)
-&nbsp;
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0a0a0c?style=for-the-badge&logo=linkedin&logoColor=9fb4d6&labelColor=050506)](https://ie.linkedin.com/in/radoslav-sheytanov-ruxton)
-&nbsp;
-[![Email](https://img.shields.io/badge/EMAIL-0a0a0c?style=for-the-badge&labelColor=050506&color=0a0a0c)](mailto:radoslav@programmer.net)
-
-</div>
-
-Break work stays off the open web. OSINT, offensive security, web-app testing, by private channel only. Ask.
-
----
-
-### `[ 05 ]` &nbsp; THE NUMBERS
-
-<div align="center">
-
-![Stats](https://github-readme-stats.vercel.app/api?username=RadoslavSheytanov&show_icons=true&include_all_commits=true&hide_border=true&bg_color=050506&title_color=9fb4d6&text_color=a7a29a&icon_color=9fb4d6)
-&nbsp;
-![Top languages](https://github-readme-stats.vercel.app/api/top-langs/?username=RadoslavSheytanov&layout=compact&hide_border=true&bg_color=050506&title_color=9fb4d6&text_color=a7a29a)
-
-</div>
-
----
-
-<div align="center">
-
-<sub>✦ &nbsp; read &nbsp; ✦ &nbsp; break &nbsp; ✦ &nbsp; build &nbsp; ✦ &nbsp; read &nbsp; ✦ &nbsp; break &nbsp; ✦ &nbsp; build &nbsp; ✦</sub>
-
-<sub>*A tell is the thing you give away without meaning to. I find it, in a person or in a system, and I build with what I learn.*</sub>
+<img src="./assets/footer.svg" width="100%" alt="Everyone leaves a tell. I find it, in a person or in a system, and build with what I learn.">
 
 </div>
