@@ -1,0 +1,21 @@
+{
+  "directed": false,
+  "multigraph": false,
+  "graph": {},
+  "nodes": [
+    {
+      "label": "README.md",
+      "file_type": "document",
+      "source_file": "README.md",
+      "source_location": "L1",
+      "_origin": "ast",
+      "id": "readme",
+      "community": 0,
+      "community_name": "README.md",
+      "norm_label": "readme.md"
+    }
+  ],
+  "links": [],
+  "hyperedges": [],
+  "built_at_commit": "6cfecc6bfdcc9864639359b724033537d8f39fa8"
+}

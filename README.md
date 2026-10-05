@@ -1,20 +1,30 @@
 <div align="center">
 
-<a href="https://sheytanoff.com"><img src="./assets/hero.svg" width="100%" alt="Rado Sheytanoff. I read people, break systems, and build what's next, all under one name."></a>
+<a href="https://sheytanoff.com"><img src="./assets/hero.svg" width="100%" alt="Rado Sheytanoff. Cross-domain engineer across payments, security and product. I read people, break systems, and build what's next, all under one name."></a>
 
 </div>
 
 <br>
 
-Hey, I'm Rado. Dad, husband, and the mentalist at your company party who somehow knows what you're thinking.
+Hey, I'm Rado. Engineer in Dublin, mostly payments, security and product.
 
-I also test web apps for security holes and build products, so this page is mostly the build side. By day I work on payments at Global Payments in Dublin, before that I was doing QA at Meta Reality Labs.
+At the minute I'm a Product Advocate at Global Payments, on the Developer Experience team. Sample apps, docs and SDK fixes so devs can get live on our APIs faster.
 
-Everything else is on [sheytanoff.com](https://sheytanoff.com)
+Before that I was in Integration and Developer Support at Global Payments, and before that QA on Reality Labs devices at Meta.
+
+On the side I test web apps for security holes, build iOS and web apps, and I'm a mentalist too. 500+ events so far for companies like WHOOP, McKinsey and Meta.
+
+People always ask how that fits together.. for me its the same skill, finding what a person or a system gives away without meaning to.
+
+Happy to chat about roles or projects, links are at the bottom.
 
 <br>
 
 <div align="center">
+
+<a href="https://ie.linkedin.com/in/radoslav-sheytanov-ruxton"><img src="./assets/experience.svg" width="100%" alt="Experience. Product Advocate, Developer Experience at Global Payments, 2025 to now. Enterprise Operations Specialist, Integration and Developer Support at Global Payments, 2023 to 2025. QA, Reality Labs at Meta via Genpact, 2023. Founder, The Tell, ongoing."></a>
+
+<br><br>
 
 <img src="./assets/thesis.svg" width="100%" alt="A mentalist, a hacker, a developer. It looks scattered. It isn't. It's one mind.">
 
@@ -24,20 +34,21 @@ Everything else is on [sheytanoff.com](https://sheytanoff.com)
 
 <br><br>
 
-<img src="./assets/work.svg" width="100%" alt="What falls out when you read people and build systems together.">
+<img src="./assets/work.svg" width="100%" alt="Selected work.">
 
 <br><br>
 
 <a href="https://sybilsight.com"><img src="./assets/work-sybil.svg" width="49.5%" alt="Sybil Sight. A mentalism operating system for smart glasses."></a><a href="https://booked.kivimedia.co"><img src="./assets/work-booked.svg" width="49.5%" alt="Booked Solid OS. An AI booking department for working entertainers."></a>
+<a href="https://github.com/globalpayments/dotnet-sdk/pulls?q=is%3Apr+author%3ARadoslavSheytanovGP"><img src="./assets/work-sdk.svg" width="49.5%" alt="Payment SDKs. Upstream fixes to the Global Payments .NET and JavaScript SDKs."></a><a href="https://github.com/globalpayments-samples"><img src="./assets/work-samples.svg" width="49.5%" alt="Payment samples. Reference integrations for the Global Payments APIs."></a>
 <a href="https://sapienjournal.com"><img src="./assets/work-sapien.svg" width="49.5%" alt="Sapien Journal. A subscription journal of propless mentalism."></a><a href="https://charliehewish.com"><img src="./assets/work-hewish.svg" width="49.5%" alt="Charlie Hewish. A bookings site for a close-up magician and mindreader."></a>
 
 <br><br>
 
-<img src="./assets/proof.svg" width="100%" alt="Rooms I've worked in. WHOOP, McKinsey and Company, Meta, Workday, SMFL. 500+ events, 7+ countries, 1 operator.">
+<img src="./assets/proof.svg" width="100%" alt="Rooms I've worked in. WHOOP, McKinsey and Company, Meta, Workday, SMFL, Global Payments. 500+ events, 7+ countries, 3 years in payments, 1 operator.">
 
 <br><br>
 
-<img src="./assets/bench.svg" width="100%" alt="The bench. What I use on stage, in the lab and at the desk.">
+<img src="./assets/bench.svg" width="100%" alt="The bench. TypeScript, JavaScript, C# and .NET, Java, React, Next.js, Node.js, Laravel, PostgreSQL, Docker. Web app pentesting, OSINT, Ghidra, LLDB, Frida. Payments: GP API, Portico, 3DS, digital wallets, tokenization, PCI-DSS.">
 
 <br><br>
 

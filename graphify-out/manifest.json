@@ -1,0 +1,117 @@
+{
+  ".github/workflows/blank.yml": {
+    "mtime": 1791202865.0140975,
+    "ast_hash": "4cba52717292a8b0d408f7185d6e67e9",
+    "semantic_hash": ""
+  },
+  "README.md": {
+    "mtime": 1791202865.0408194,
+    "ast_hash": "5d79ce7ec166891f9a0d055bb0723752",
+    "semantic_hash": ""
+  },
+  "assets/bench.svg": {
+    "mtime": 1791202865.0450933,
+    "ast_hash": "b05d73c5a74523677c734571cd340560",
+    "semantic_hash": ""
+  },
+  "assets/btn-break.svg": {
+    "mtime": 1791202865.045214,
+    "ast_hash": "e3845dc61a25abb21bd716e595b4ca6a",
+    "semantic_hash": ""
+  },
+  "assets/btn-build.svg": {
+    "mtime": 1791202865.0453184,
+    "ast_hash": "ac93bebcb29345110999c273005134db",
+    "semantic_hash": ""
+  },
+  "assets/btn-read.svg": {
+    "mtime": 1791202865.0454364,
+    "ast_hash": "26e72ffab170ba3b1a11501655e87d4b",
+    "semantic_hash": ""
+  },
+  "assets/contact.svg": {
+    "mtime": 1791202865.0456824,
+    "ast_hash": "44ed6d0913d5852eb689f674bb17d5fe",
+    "semantic_hash": ""
+  },
+  "assets/craft-break.svg": {
+    "mtime": 1791202865.045905,
+    "ast_hash": "63f8c2f3db11f2857cd426d792ce0a83",
+    "semantic_hash": ""
+  },
+  "assets/craft-build.svg": {
+    "mtime": 1791202865.0461233,
+    "ast_hash": "b67d8bc75bd28d0f0924adc5fc8ebeaa",
+    "semantic_hash": ""
+  },
+  "assets/craft-read.svg": {
+    "mtime": 1791202865.0463347,
+    "ast_hash": "a6d658062a8ab9a8ef70238bd89b5dbf",
+    "semantic_hash": ""
+  },
+  "assets/footer.svg": {
+    "mtime": 1791202865.0465443,
+    "ast_hash": "8d1393890aa588356ad4fa3d977f096b",
+    "semantic_hash": ""
+  },
+  "assets/hero.svg": {
+    "mtime": 1791202865.0466502,
+    "ast_hash": "f5ebc3c0ca739c029f70e6a2d898892c",
+    "semantic_hash": ""
+  },
+  "assets/link-ig.svg": {
+    "mtime": 1791202865.0467458,
+    "ast_hash": "63deb460a4361dc364c9893684671091",
+    "semantic_hash": ""
+  },
+  "assets/link-in.svg": {
+    "mtime": 1791202865.0468395,
+    "ast_hash": "0cd6033cecfe8050213fbc4e811556ad",
+    "semantic_hash": ""
+  },
+  "assets/link-mail.svg": {
+    "mtime": 1791202865.0469356,
+    "ast_hash": "32007c72f72786fa04bd41a44b0844d1",
+    "semantic_hash": ""
+  },
+  "assets/link-site.svg": {
+    "mtime": 1791202865.047034,
+    "ast_hash": "0b6f473fce4fd11381e25d83d6227b41",
+    "semantic_hash": ""
+  },
+  "assets/proof.svg": {
+    "mtime": 1791202865.0472426,
+    "ast_hash": "227cb31c88dd8d44d8f3e6f83b5c8c68",
+    "semantic_hash": ""
+  },
+  "assets/thesis.svg": {
+    "mtime": 1791202865.0474434,
+    "ast_hash": "4d548a2101af32021377f4585e34004e",
+    "semantic_hash": ""
+  },
+  "assets/work-booked.svg": {
+    "mtime": 1791202865.0476446,
+    "ast_hash": "6c32cf4e9e086c7d67e31d882c64faa4",
+    "semantic_hash": ""
+  },
+  "assets/work-hewish.svg": {
+    "mtime": 1791202865.0478458,
+    "ast_hash": "b1ee1565e59ce07f67452c86265f7b0f",
+    "semantic_hash": ""
+  },
+  "assets/work-sapien.svg": {
+    "mtime": 1791202865.0480518,
+    "ast_hash": "7c6517d2f84edebd2b153a81c0abde68",
+    "semantic_hash": ""
+  },
+  "assets/work-sybil.svg": {
+    "mtime": 1791202865.048267,
+    "ast_hash": "ea9f6919f7c4c9c1bedd6c2314bcf185",
+    "semantic_hash": ""
+  },
+  "assets/work.svg": {
+    "mtime": 1791202865.048463,
+    "ast_hash": "36a4c81be99b77b52e4422010778e1a1",
+    "semantic_hash": ""
+  }
+}
